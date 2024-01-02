@@ -1,11 +1,11 @@
 # Sugar-Bunnies-p5
 A simply drawing of the Sugar Bunnies characters from Sanrio! Done using the p5.js library. I really enjoyed doing this drawing as Sanrio characters are a big interest of mine! I love how their designs are able to portray a level of cuteness that captures the hearts of so many people, including me. Please enjoy my drawing ૮꒰ ˶• ༝ •˶꒱ა ♡
 
-# Built With
+## Built With
 - HTML
 - p5.js
   
-# Sugar Bunnies Drawing
+## Sugar Bunnies Drawing
 <p align="center">
   <img width="355" alt="Screenshot 2024-01-02 at 5 32 25 PM" src="https://github.com/saharbueno/Sugar-Bunnies-p5/assets/69322388/6e73016e-4b7e-4097-a017-b916de7e1d96">
 </p>
