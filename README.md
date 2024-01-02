@@ -1,5 +1,5 @@
 # Sugar-Bunnies-p5
-A simply drawing of the Sugar Bunnies characters from Sanrio! Done using the p5JS library. I really enjoyed doing this drawing as Sanrio characters are a big interest of mine! I love how their designs are able to portray a level of cuteness that captures the hearts of so many people, including me. Please enjoy my drawing ૮꒰ ˶• ༝ •˶꒱ა ♡
+A simply drawing of the Sugar Bunnies characters from Sanrio! Done using the p5.js library. I really enjoyed doing this drawing as Sanrio characters are a big interest of mine! I love how their designs are able to portray a level of cuteness that captures the hearts of so many people, including me. Please enjoy my drawing ૮꒰ ˶• ༝ •˶꒱ა ♡
 
 # Sugar Bunnies Drawing
 <p align="center">
